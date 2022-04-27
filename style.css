@@ -1,0 +1,23 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+#start{
+    background-color: white;
+}
+
+#myModal{
+    background-color: aqua;
+}
+
+.modal-dialog{    
+    width: 90%;    
+}
+
+.copy_right_footer{
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+}
